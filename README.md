@@ -6,6 +6,6 @@ Details info:
 
 - PHP: 7.4.33
 - Apache: 2.4.54
-- mysqli & mysqlnd & pdo_mysql module enabled
+- mysqli & mysqlnd & pdo_mysql & gd module enabled
 
 see `phpinfo()` for more information.
